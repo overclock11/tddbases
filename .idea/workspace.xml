@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c70fd559-732f-410f-b380-c99e9e920c8f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="25oKIojSjd6DlprBXFVb6xcGd27" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/tdd-bases/node_modules/react-scripts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Users\Julian\Documents\codigo\tdd-bases\tdd-bases\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Julian\Documents\codigo\tdd-bases\tdd-bases\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.app tests.waitfor">
+    <configuration name="app tests.ejecutar un blur" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/tdd-bases/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/tdd-bases" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tdd-bases/src/App.test.tsx" />
+      <test-names>
+        <test-name value="app tests" />
+        <test-name value="ejecutar un blur" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="app tests.render getBytRole" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/tdd-bases/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/tdd-bases" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tdd-bases/src/App.test.tsx" />
+      <test-names>
+        <test-name value="app tests" />
+        <test-name value="render getBytRole" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="app tests.validar el submit del formulario y el caso de error de un input" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/tdd-bases/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/tdd-bases" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tdd-bases/src/App.test.tsx" />
+      <test-names>
+        <test-name value="app tests" />
+        <test-name value="validar el submit del formulario y el caso de error de un input" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="app tests.waitfor" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/tdd-bases/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/tdd-bases" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tdd-bases/src/App.test.tsx" />
+      <test-names>
+        <test-name value="app tests" />
+        <test-name value="waitfor" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="test para el component reacttesting (1)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/tdd-bases/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/tdd-bases" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/tdd-bases/src/test/reactTestingComponent.spec.tsx" />
+      <test-names>
+        <test-name value="test para el component reacttesting" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.app tests.waitfor" />
+        <item itemvalue="Jest.app tests.ejecutar un blur" />
+        <item itemvalue="Jest.app tests.validar el submit del formulario y el caso de error de un input" />
+        <item itemvalue="Jest.app tests.render getBytRole" />
+        <item itemvalue="Jest.test para el component reacttesting (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c70fd559-732f-410f-b380-c99e9e920c8f" name="Default Changelist" comment="" />
+      <created>1646187921278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646187921278</updated>
+      <workItem from="1646187924038" duration="4551000" />
+      <workItem from="1646282062612" duration="5693000" />
+      <workItem from="1646881782060" duration="5520000" />
+      <workItem from="1647224717154" duration="4318000" />
+      <workItem from="1647404022094" duration="2964000" />
+      <workItem from="1647994963656" duration="1102000" />
+      <workItem from="1648083236614" duration="974000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/tdd-bases" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1900" height="394" key="GridCell.Tab.0.bottom" timestamp="1647234644468">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="394" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1360.728@0.0.1920.1040" timestamp="1646889909607" />
+    <state width="1900" height="394" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647234644468" />
+    <state width="1900" height="394" key="GridCell.Tab.0.center" timestamp="1647234644468">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="394" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1360.728@0.0.1920.1040" timestamp="1646889909607" />
+    <state width="1900" height="394" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647234644468" />
+    <state width="1900" height="394" key="GridCell.Tab.0.left" timestamp="1647234644468">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="394" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1360.728@0.0.1920.1040" timestamp="1646889909607" />
+    <state width="1900" height="394" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647234644468" />
+    <state width="1900" height="394" key="GridCell.Tab.0.right" timestamp="1647234644468">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="394" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1360.728@0.0.1920.1040" timestamp="1646889909607" />
+    <state width="1900" height="394" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647234644468" />
+    <state width="1900" height="348" key="GridCell.Tab.1.bottom" timestamp="1646287966760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1646287966760" />
+    <state width="1900" height="348" key="GridCell.Tab.1.center" timestamp="1646287966760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1646287966760" />
+    <state width="1900" height="348" key="GridCell.Tab.1.left" timestamp="1646287966760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1646287966760" />
+    <state width="1900" height="348" key="GridCell.Tab.1.right" timestamp="1646287966760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1646287966760" />
+    <state width="1900" height="348" key="GridCell.Tab.2.bottom" timestamp="1646287966760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1646287966760" />
+    <state width="1900" height="348" key="GridCell.Tab.2.center" timestamp="1646287966760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="348" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1646287966760" />
+    <state width="1900" height="348" key="GridCell.Tab.2.left" timestamp="1646287966760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="348" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1646287966760" />
+    <state width="1900" height="348" key="GridCell.Tab.2.right" timestamp="1646287966760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="348" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1646287966760" />
+    <state width="1900" height="348" key="GridCell.Tab.3.bottom" timestamp="1646287966760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="348" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1646287966760" />
+    <state width="1900" height="348" key="GridCell.Tab.3.center" timestamp="1646287966760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="348" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1646287966760" />
+    <state width="1900" height="348" key="GridCell.Tab.3.left" timestamp="1646287966760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="348" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1646287966760" />
+    <state width="1900" height="348" key="GridCell.Tab.3.right" timestamp="1646287966760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="348" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1646287966760" />
+    <state x="491" y="165" key="SettingsEditor" timestamp="1646882081737">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="491" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1646882081737" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1646196918863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1646196918863" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/tdd-bases/src/index.tsx</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
